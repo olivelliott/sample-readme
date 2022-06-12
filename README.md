@@ -1,4 +1,5 @@
-# Title here
+# Sample README
+
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ## Description
@@ -17,7 +18,7 @@ This is an example of a README that can be generated through the README Generato
 ## Usage
 Please initialize npm in your local repository before running the node application.
 
-![Demonstration](https://drive.google.com/file/d/1dHLEwTIufTYf7pyNsylbX3wCh1IFPSa1/preview)
+![Demonstration](https://drive.google.com/file/d/1dHLEwTIufTYf7pyNsylbX3wCh1IFPSa1/view)
 
 ## License
 This application is licensed under the Apache 2.0 license. Please click on the link below to learn more.
