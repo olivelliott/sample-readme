@@ -18,7 +18,9 @@ This is an example of a README that can be generated through the README Generato
 ## Usage
 Please initialize npm in your local repository before running the node application.
 
-![Demonstration](https://drive.google.com/file/d/1dHLEwTIufTYf7pyNsylbX3wCh1IFPSa1/view)
+![Demonstration](https://drive.google.com/file/d1dHLEwTIufTYf7pyNsylbX3wCh1IFPSa1/view)
+
+![](./readme.gif)
 
 ## License
 This application is licensed under the Apache 2.0 license. Please click on the link below to learn more.
