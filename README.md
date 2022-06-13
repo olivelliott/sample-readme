@@ -12,14 +12,13 @@ This is an example of a README that can be generated through the README Generato
 - [License](#license)
 
 ## Installation
-- steps<br /> 
-- install npm
+- Steps<br /> 
+- Install npm
 
 ## Usage
 Please initialize npm in your local repository before running the node application.
 
-![Demonstration](./readme.gif)
-
+![Demonstration](https://drive.google.com/file/d/1dHLEwTIufTYf7pyNsylbX3wCh1IFPSa1/view)
 ![](./readme.gif)
 
 ## License
