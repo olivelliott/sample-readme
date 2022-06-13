@@ -18,7 +18,7 @@ This is an example of a README that can be generated through the README Generato
 ## Usage
 Please initialize npm in your local repository before running the node application.
 
-![Demonstration](https://drive.google.com/file/d1dHLEwTIufTYf7pyNsylbX3wCh1IFPSa1/view)
+![Demonstration](./readme.gif)
 
 ![](./readme.gif)
 
