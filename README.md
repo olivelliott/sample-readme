@@ -8,8 +8,11 @@ This is an example of a README that can be generated through the README Generato
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Demonstration](#demonstration)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)]
+- [Questions](#questions)
 
 ## Installation
 - Steps<br /> 
@@ -24,7 +27,6 @@ Please initialize npm in your local repository before running the node applicati
 This application is licensed under the Apache 2.0 license. Please click on the link below to learn more.
 
 (https://opensource.org/licenses/Apache-2.0)
-
 
 ## Contributing
 
