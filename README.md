@@ -11,7 +11,7 @@ This is an example of a README that can be generated through the README Generato
 - [Demonstration](#demonstration)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)]
+- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
